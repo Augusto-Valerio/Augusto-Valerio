@@ -3,30 +3,15 @@
 ### Future software engineer • Full-Stack and UI/UX focused
 📍 São Paulo, Brazil 🇧🇷
 
-#### 📫 Contact
+### 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-valerio-7138432ba/)](https://www.linkedin.com/in/augusto-valerio-7138432ba/) 
 [![Gmail Badge](https://img.shields.io/badge/-augusto.valerio.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augusto.valerio.dev@gmail.com)](mailto:augusto.valerio.dev@gmail.com)
 
 
-#### ⚡ Techs 
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py&theme=dark" alt="Html, Css, Js," width="250" />
-</div>
-
-
-###
-###
-###
+### ⚡ Technologies
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py&theme=dark" alt="Html, Css, Js,"/>
 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Augusto-Valerio&show_icons=true&theme=dark&title_color=4FC3F7&text_color=D3D3D3&icon_color=81C784&bg_color=000&border_color=294D61" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Valerio&layout=compact&theme=dark&title_color=4FC3F7&text_color=D3D3D3&bg_color=000&border_color=294D61" height="180px"/>
-</div>
-
-<!-- Snake -->
-<div align="center">
-
-![snake gif](https://github.com/Augusto-Valerio/Augusto-Valerio/blob/output/github-snake-dark.svg)
-
 </div>
