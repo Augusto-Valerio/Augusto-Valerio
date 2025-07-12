@@ -1,6 +1,6 @@
 # Hi, I'm Augusto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-### Future software engineer • Full-Stack and UI/UX focused
+### Future software engineer • Full-Stack focused • Learning by building
 📍 São Paulo, Brazil 🇧🇷
 
 ### 📫 Contact
