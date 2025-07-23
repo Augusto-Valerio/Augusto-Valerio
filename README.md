@@ -11,7 +11,6 @@
 ### ⚡ Technologies
  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py&theme=dark" alt="Html, Css, Js,"/>
 
- <div align="center">
+ <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Augusto-Valerio&show_icons=true&theme=dark&title_color=4FC3F7&text_color=D3D3D3&icon_color=81C784&bg_color=000&border_color=294D61" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Valerio&layout=compact&theme=dark&title_color=4FC3F7&text_color=D3D3D3&bg_color=000&border_color=294D61" height="180px"/>
 </div>
