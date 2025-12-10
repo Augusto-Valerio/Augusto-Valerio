@@ -1,6 +1,6 @@
 # Hi, I'm Augusto! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-### Future software engineer • Full-Stack focused • Learning by building
+### Future software engineer • Front-End Developer (in transition to Full-Stack) • Learning by building
 📍 São Paulo, Brazil 🇧🇷
 
 ### 📫 Contact
@@ -9,6 +9,6 @@
 
 
 ### ⚡ Technologies
- <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py&theme=dark" alt="Html, Css, Js,"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, Typescript, React, Tailwind"/>
 
 
